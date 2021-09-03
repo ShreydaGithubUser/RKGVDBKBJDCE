@@ -1,0 +1,18 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#Carousel1 {
+    background-color: red;
+}
+
+#Carousel1 img {
+    height: 300px;
+    margin-top: 35px;
+}
